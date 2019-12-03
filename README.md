@@ -42,3 +42,5 @@ But please please don't, I have enough to do.
 TIA  
 
 Hans Ulli Kroll <ulli.kroll@googlemail.com>
+
+https://github.com/ulli-kroll/rtl8822bu
